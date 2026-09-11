@@ -49,6 +49,17 @@ Every project below is deployed — click the site.
 
 **Design:** Figma · UX/UI · design systems · motion · brand
 
+## Design & motion
+
+UI/UX and motion work — more on [Behance](https://www.behance.net/alexanderkurchakov) and [Instagram](https://www.instagram.com/alexanderkurchakov/).
+
+<p align="center">
+  <a href="https://www.instagram.com/reel/C9edRfvOm2O/"><img src="media/neuro.gif" width="31%" alt="Neuro helmet — mobile app concept"></a>&nbsp;
+  <a href="https://www.instagram.com/reel/C9urgKFSMFV/"><img src="media/trendova.gif" width="31%" alt="Trendova — fashion store landing"></a>&nbsp;
+  <a href="https://www.instagram.com/reel/C9J0kqQOM6I/"><img src="media/qazsoft.gif" width="31%" alt="QazSoft — studio identity carousel"></a>
+</p>
+<p align="center"><sub>Neuro helmet · app concept &nbsp;·&nbsp; Trendova · fashion store &nbsp;·&nbsp; QazSoft · studio identity</sub></p>
+
 ## Links
 
 - Portfolio: https://portfolio-nu-ochre-2f9g25e8gc.vercel.app
