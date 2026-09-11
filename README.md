@@ -23,6 +23,10 @@ I design and ship web products end-to-end: UX/UI in Figma, React/TypeScript code
 
 More: [AlexanderKurchakov](https://github.com/Alexanderadon/AlexanderKurchakov) — source of my portfolio site (React Router, WebGL fog, three.js 3D book, Playwright e2e).
 
+## Before AI (2021–2023)
+
+- [Alexanderadon.github.io](https://github.com/Alexanderadon/Alexanderadon.github.io) · [live](https://alexanderadon.github.io) — my hand-coded years: static layouts, CSS 3D, canvas games (Snake, a shooter), a Gulp + Sass pipeline. Written line by line, no AI assistants. I keep it visible on purpose — the fundamentals under everything above.
+
 ## AI & agents
 
 - [GameKanbanOS](https://github.com/Alexanderadon/GameKanbanOS) — Telegram bot + Kanban dashboard: plain-text messages parsed by an LLM into structured operations on Postgres (aiogram · FastAPI · Gemini).
