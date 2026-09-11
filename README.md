@@ -8,20 +8,23 @@ I design and ship web products end-to-end: UX/UI in Figma, React/TypeScript code
 
 ## Now
 
-- **KIDO** — DSGVO-first SaaS + marketplace for kids' course schools in Germany: school cabinet, public catalog, bookings, Stripe Connect. React Router 7 (SSR) · Supabase (RLS) · Tailwind v4 · Feature-Sliced Design. Private for now.
+- **KIDO** · [kido-six.vercel.app](https://kido-six.vercel.app) — DSGVO-first SaaS + marketplace for kids' course schools in Germany: school cabinet, public catalog, bookings, Stripe Connect. React Router 7 (SSR) · Supabase (RLS) · Tailwind v4 · Feature-Sliced Design. Beta; repo private for now.
+- **alkurtrade** · [alkurtrade.vercel.app](https://alkurtrade.vercel.app) — crypto-trading signals SaaS: Bybit/Binance ingest → TimescaleDB → multi-layer signal engine → Telegram alerts + Next.js dashboard, Stripe/USDT billing, AI signal explanations. Repo private for now.
+- **Portfolio site** · [portfolio-nu-ochre-2f9g25e8gc.vercel.app](https://portfolio-nu-ochre-2f9g25e8gc.vercel.app) · [source](https://github.com/Alexanderadon/AlexanderKurchakov) — React Router, WebGL fog, three.js 3D book, Playwright e2e. Work in progress.
 
 ## Selected work
 
-| Project | What it is | Stack |
-|---|---|---|
-| [neon-tap](https://github.com/Alexanderadon/neon-tap) · [play](https://neon-tap-virid.vercel.app) | Browser rhythm game that auto-generates note charts from any MP3 — STFT, spectral flux, beat tracking, all in-browser | TypeScript · Web Audio · Canvas · Vitest (226 tests) |
-| [almaty-air](https://github.com/Alexanderadon/almaty-air) · [live](https://almaty-air-two.vercel.app) | Real-time air-quality PWA for Almaty: district map, AQI history, push alerts, hourly cron into Postgres | Next.js 16 · Prisma · Supabase · Serwist · Playwright |
-| [zhk-radar](https://github.com/Alexanderadon/zhk-radar) · [live](https://zhk-radar.vercel.app) | Map of new-build housing in Kazakhstan with a transparent developer risk score built from open data | Next.js 15 · MapLibre · Supabase · GitHub Actions cron |
-| [resto-miniapp](https://github.com/Alexanderadon/resto-miniapp) · [live](https://resto-miniapp.vercel.app) | Telegram Mini App for restaurant pickup orders: catalog → cart → checkout → bot confirmation → staff admin | Next.js 16 · Turborepo · Prisma · Stripe · Vitest · CI |
-| [tengestack](https://github.com/Alexanderadon/tengestack) | Live salary dashboard for Kazakhstan IT jobs: daily hh.kz scrape → columnar dataset → client-side analytics | Next.js 15 · TypeScript · SVG charts · GitHub Actions |
-| [elementarno](https://github.com/Alexanderadon/elementarno) · [live](https://elementarno-three.vercel.app) | Chemistry as a merge game + reference of 27k compounds built from Wikidata | Vite · React 19 · Zustand · MiniSearch |
+Every project below is deployed — click the site.
 
-More: [AlexanderKurchakov](https://github.com/Alexanderadon/AlexanderKurchakov) — source of my portfolio site (React Router, WebGL fog, three.js 3D book, Playwright e2e).
+| Project | Live site | What it is | Stack |
+|---|---|---|---|
+| [neon-tap](https://github.com/Alexanderadon/neon-tap) | [neon-tap-virid.vercel.app](https://neon-tap-virid.vercel.app) | Browser rhythm game that auto-generates note charts from any MP3 — STFT, spectral flux, beat tracking, all in-browser | TypeScript · Web Audio · Canvas · Vitest (226 tests) |
+| [almaty-air](https://github.com/Alexanderadon/almaty-air) | [almaty-air-two.vercel.app](https://almaty-air-two.vercel.app) | Real-time air-quality PWA for Almaty: district map, AQI history, push alerts, hourly cron into Postgres | Next.js 16 · Prisma · Supabase · Serwist · Playwright |
+| [zhk-radar](https://github.com/Alexanderadon/zhk-radar) | [zhk-radar.vercel.app](https://zhk-radar.vercel.app) | Map of new-build housing in Kazakhstan with a transparent developer risk score built from open data | Next.js 15 · MapLibre · Supabase · GitHub Actions cron |
+| [resto-miniapp](https://github.com/Alexanderadon/resto-miniapp) | [resto-miniapp.vercel.app](https://resto-miniapp.vercel.app) | Telegram Mini App for restaurant pickup orders: catalog → cart → checkout → bot confirmation → staff admin | Next.js 16 · Turborepo · Prisma · Stripe · Vitest · CI |
+| [tengestack](https://github.com/Alexanderadon/tengestack) | [workhh.vercel.app](https://workhh.vercel.app) | Live salary dashboard for Kazakhstan IT jobs: daily hh.kz scrape → columnar dataset → client-side analytics | Next.js 15 · TypeScript · SVG charts · GitHub Actions |
+| [elementarno](https://github.com/Alexanderadon/elementarno) | [elementarno-three.vercel.app](https://elementarno-three.vercel.app) | Chemistry as a merge game + reference of 27k compounds built from Wikidata | Vite · React 19 · Zustand · MiniSearch |
+| [ivanreys-landing](https://github.com/Alexanderadon/ivanreys-landing) | [ivanreys.vercel.app](https://ivanreys.vercel.app) | Landing page for musician Ivan Reys: Web Audio player with live spectrum, canvas space hero, single file, no build | Vanilla JS · Web Audio · Canvas |
 
 ## Before AI (2021–2023)
 
