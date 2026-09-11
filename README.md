@@ -12,16 +12,14 @@ I design and ship web products end-to-end: UX/UI in Figma, React/TypeScript code
 
 ## Selected work
 
-<!-- neon-tap, zhk-radar and elementarno repos are private for now: only the live demos are linked. Add the github.com links back once the repos are public. -->
-
 | Project | What it is | Stack |
 |---|---|---|
-| neon-tap · [play](https://neon-tap-virid.vercel.app) | Browser rhythm game that auto-generates note charts from any MP3 — STFT, spectral flux, beat tracking, all in-browser | TypeScript · Web Audio · Canvas · Vitest (226 tests) |
+| [neon-tap](https://github.com/Alexanderadon/neon-tap) · [play](https://neon-tap-virid.vercel.app) | Browser rhythm game that auto-generates note charts from any MP3 — STFT, spectral flux, beat tracking, all in-browser | TypeScript · Web Audio · Canvas · Vitest (226 tests) |
 | [almaty-air](https://github.com/Alexanderadon/almaty-air) · [live](https://almaty-air-two.vercel.app) | Real-time air-quality PWA for Almaty: district map, AQI history, push alerts, hourly cron into Postgres | Next.js 16 · Prisma · Supabase · Serwist · Playwright |
-| zhk-radar · [live](https://zhk-radar.vercel.app) | Map of new-build housing in Kazakhstan with a transparent developer risk score built from open data | Next.js 15 · MapLibre · Supabase · GitHub Actions cron |
-| [resto-miniapp](https://github.com/Alexanderadon/resto-miniapp) · [live](https://resto-miniapp.vercel.app) | Telegram Mini App for restaurant pickup orders: catalog → cart → checkout → bot confirmation → staff admin | Next.js 16 · Turborepo · Prisma · Stripe · 143 tests |
+| [zhk-radar](https://github.com/Alexanderadon/zhk-radar) · [live](https://zhk-radar.vercel.app) | Map of new-build housing in Kazakhstan with a transparent developer risk score built from open data | Next.js 15 · MapLibre · Supabase · GitHub Actions cron |
+| [resto-miniapp](https://github.com/Alexanderadon/resto-miniapp) · [live](https://resto-miniapp.vercel.app) | Telegram Mini App for restaurant pickup orders: catalog → cart → checkout → bot confirmation → staff admin | Next.js 16 · Turborepo · Prisma · Stripe · Vitest · CI |
 | [tengestack](https://github.com/Alexanderadon/tengestack) | Live salary dashboard for Kazakhstan IT jobs: daily hh.kz scrape → columnar dataset → client-side analytics | Next.js 15 · TypeScript · SVG charts · GitHub Actions |
-| elementarno · [live](https://elementarno-three.vercel.app) | Chemistry as a merge game + reference of 27k compounds built from Wikidata | Vite · React 19 · Zustand · MiniSearch |
+| [elementarno](https://github.com/Alexanderadon/elementarno) · [live](https://elementarno-three.vercel.app) | Chemistry as a merge game + reference of 27k compounds built from Wikidata | Vite · React 19 · Zustand · MiniSearch |
 
 More: [AlexanderKurchakov](https://github.com/Alexanderadon/AlexanderKurchakov) — source of my portfolio site (React Router, WebGL fog, three.js 3D book, Playwright e2e).
 
