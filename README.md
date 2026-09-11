@@ -34,13 +34,17 @@ More: [AlexanderKurchakov](https://github.com/Alexanderadon/AlexanderKurchakov) 
 
 ## Stack
 
-**Frontend:** React 19 · TypeScript · Next.js · React Router 7 · Vite · Tailwind v4 · shadcn/ui · Zustand · TanStack Query · Canvas / WebGL / three.js
+**Frontend:** React 19 · Next.js (App Router, RSC, Server Actions) · TypeScript · React Router 7 · Vite · Tailwind v4 · shadcn/ui · Zustand · TanStack Query · React Hook Form + Zod · Framer Motion · PWA · Canvas / WebGL / three.js
 
-**Backend & data:** Supabase (Postgres, Auth, RLS, Storage) · Node.js · Prisma · Stripe Connect · Python (FastAPI, aiogram)
+**Backend:** Node.js · Express · Fastify · REST · tRPC · WebSockets · Python (FastAPI, aiogram) · Telegram Bot API & Mini Apps · Stripe (Connect, Billing, webhooks) · Resend
 
-**Quality & infra:** Vitest · Playwright · GitHub Actions · Vercel · Docker
+**Data:** PostgreSQL · Supabase (Auth, RLS, Storage, Edge Functions, Realtime) · Prisma · Drizzle · Redis (Upstash) · pgvector · PostGIS
 
-**Design:** Figma · UX/UI · motion · brand
+**AI engineering:** OpenAI API · Anthropic API · Gemini · Vercel AI SDK · Claude Code · Codex CLI · MCP servers & tools · agents (multi-step, tool use, structured output) · RAG (embeddings, pgvector, MiniSearch) · prompt engineering & evals
+
+**Quality & infra:** Vitest · Playwright · ESLint · GitHub Actions (CI, cron) · Vercel · Docker · Sentry · PostHog
+
+**Design:** Figma · UX/UI · design systems · motion · brand
 
 ## Links
 
