@@ -33,7 +33,7 @@ Every project below is deployed — click the site.
 ## AI & agents
 
 - [GameKanbanOS](https://github.com/Alexanderadon/GameKanbanOS) — Telegram bot + Kanban dashboard: plain-text messages parsed by an LLM into structured operations on Postgres (aiogram · FastAPI · Gemini).
-- **AI-native workflow.** Claude Code is my daily driver — planning, agents, custom skills, multi-step agentic tasks under CI and tests; currently adopting Codex CLI. Every line is reviewed and explainable by me.
+- **AI-native workflow.** Agentic coding tools are part of my daily work — planning agents, custom skills, multi-step tasks under CI and tests; currently adopting Codex CLI. Every line is reviewed and explainable by me.
 
 ## Stack
 
@@ -43,7 +43,7 @@ Every project below is deployed — click the site.
 
 **Data:** PostgreSQL · Supabase (Auth, RLS, Storage, Edge Functions, Realtime) · Prisma · Redis (Upstash) · PostGIS
 
-**AI engineering:** OpenAI API · Anthropic API · Gemini · Vercel AI SDK · Claude Code · Codex CLI · MCP servers & tools · agents (multi-step, tool use, structured output) · RAG (embeddings, MiniSearch) · prompt engineering & evals
+**AI engineering:** OpenAI API · Gemini · Vercel AI SDK · Codex CLI · MCP servers & tools · agents (multi-step, tool use, structured output) · RAG (embeddings, MiniSearch) · prompt engineering & evals
 
 **Quality & infra:** Vitest · Playwright · ESLint · GitHub Actions (CI, cron) · Vercel · Docker · Sentry · PostHog
 
