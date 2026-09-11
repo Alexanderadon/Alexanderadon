@@ -9,7 +9,6 @@ I design and ship web products end-to-end: UX/UI in Figma, React/TypeScript code
 ## Now
 
 - **KIDO** · [kido-six.vercel.app](https://kido-six.vercel.app) — DSGVO-first SaaS + marketplace for kids' course schools in Germany: school cabinet, public catalog, bookings, Stripe Connect. React Router 7 (SSR) · Supabase (RLS) · Tailwind v4 · Feature-Sliced Design. Beta; repo private for now.
-- **alkurtrade** · [alkurtrade.vercel.app](https://alkurtrade.vercel.app) — crypto-trading signals SaaS: Bybit/Binance ingest → TimescaleDB → multi-layer signal engine → Telegram alerts + Next.js dashboard, Stripe/USDT billing, AI signal explanations. Repo private for now.
 - **Portfolio site** · [portfolio-nu-ochre-2f9g25e8gc.vercel.app](https://portfolio-nu-ochre-2f9g25e8gc.vercel.app) · [source](https://github.com/Alexanderadon/AlexanderKurchakov) — React Router, WebGL fog, three.js 3D book, Playwright e2e. Work in progress.
 
 ## Selected work
@@ -24,6 +23,7 @@ Every project below is deployed — click the site.
 | [resto-miniapp](https://github.com/Alexanderadon/resto-miniapp) | [resto-miniapp.vercel.app](https://resto-miniapp.vercel.app) | Telegram Mini App for restaurant pickup orders: catalog → cart → checkout → bot confirmation → staff admin | Next.js 16 · Turborepo · Prisma · Stripe · Vitest · CI |
 | [tengestack](https://github.com/Alexanderadon/tengestack) | [workhh.vercel.app](https://workhh.vercel.app) | Live salary dashboard for Kazakhstan IT jobs: daily hh.kz scrape → columnar dataset → client-side analytics | Next.js 15 · TypeScript · SVG charts · GitHub Actions |
 | [elementarno](https://github.com/Alexanderadon/elementarno) | [elementarno-three.vercel.app](https://elementarno-three.vercel.app) | Chemistry as a merge game + reference of 27k compounds built from Wikidata | Vite · React 19 · Zustand · MiniSearch |
+| alkurtrade (private repo) | [alkurtrade.vercel.app](https://alkurtrade.vercel.app) | Crypto-trading signals SaaS: Bybit/Binance ingest → TimescaleDB → multi-layer signal engine → Telegram alerts + dashboard, Stripe/USDT billing, AI signal explanations | Next.js 16 · TimescaleDB · Redis · Stripe · Docker |
 | [ivanreys-landing](https://github.com/Alexanderadon/ivanreys-landing) | [ivanreys.vercel.app](https://ivanreys.vercel.app) | Landing page for musician Ivan Reys: Web Audio player with live spectrum, canvas space hero, single file, no build | Vanilla JS · Web Audio · Canvas |
 
 ## Before AI (2021–2023)
