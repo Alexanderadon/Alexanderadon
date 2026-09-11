@@ -1,8 +1,8 @@
 # Alexander Kurchakov
 
-**Frontend / Fullstack Developer · React · TypeScript · Supabase · AI-native workflow**
+**Fullstack Developer · React · TypeScript · Node.js · Supabase · UX/UI · AI-native workflow**
 
-Almaty, Kazakhstan (UTC+5) · Open to frontend / fullstack roles — Kazakhstan or remote EU · RU / EN
+Almaty, Kazakhstan (UTC+5) · Open to fullstack roles — Kazakhstan or remote EU · RU / EN
 
 I design and ship web products end-to-end: UX/UI in Figma, React/TypeScript code, backend on Supabase/Node, deploy on Vercel. 6+ years on the web — landing pages, dashboards, PWAs, a vertical SaaS. I work as a one-person product team and I'm comfortable owning the whole stack.
 
