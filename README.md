@@ -8,7 +8,7 @@ I design and ship web products end-to-end: UX/UI in Figma, React/TypeScript code
 
 ## Now
 
-- **KIDO** · [kido-six.vercel.app](https://kido-six.vercel.app) — DSGVO-first SaaS + marketplace for kids' course schools in Germany: school cabinet, public catalog, bookings, Stripe Connect. React Router 7 (SSR) · Supabase (RLS) · Tailwind v4 · Feature-Sliced Design. Beta; repo private for now.
+- **KIDO** · [kido-six.vercel.app](https://kido-six.vercel.app) — DSGVO-first SaaS + marketplace for kids' course schools in Germany: school cabinet, public catalog, bookings, Stripe Connect. React Router 7 (SSR) · Supabase (RLS) · Tailwind v4 · Feature-Sliced Design. Beta; repo private for now. Product lead: [@Emina-An](https://github.com/Emina-An) — the KIDO concept won the Gutmann Global Advisory Partner special prize at ISM Startup Competition 2025 (Cologne).
 - **Portfolio site** · [portfolio-nu-ochre-2f9g25e8gc.vercel.app](https://portfolio-nu-ochre-2f9g25e8gc.vercel.app) · [source](https://github.com/Alexanderadon/AlexanderKurchakov) — React Router, WebGL fog, three.js 3D book, Playwright e2e. Work in progress.
 
 ## Selected work
